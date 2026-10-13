@@ -1,0 +1,7 @@
+5,7-DHT:turquoise
+6-OHDA:magenta
+Vehicle:black
+1:black
+0.8:gray
+0.5:gray
+0.2:lightgray

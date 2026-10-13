@@ -1,0 +1,25 @@
+ACC:gray
+ACC(L):gray
+ACC (PC):gray
+ACC (SDT):gray
+ACC(L) (SDT):gray
+SAT1:#8E82FE
+SAT2:blue
+SAT5:navy
+PSE1:red
+PSE2:maroon
+ACC50:gray
+Naive:gray
+EE:gold
+SDT1:turquoise
+SDT2:teal
+SDT5:teal
+AR_SAT1:purple
+ACC100:gray
+50SAT1:green
+ACC100:gray
+zEE:gray
+1:black
+0.8:lightgray
+0.5:gray
+0.2:lightgray
